@@ -10,7 +10,7 @@ The goal of this assignment was to practice:
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo
 
 🔗 https://anaskhalidtech.github.io/HTML-Resume-Page-Assignment/
 
